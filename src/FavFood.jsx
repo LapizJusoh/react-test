@@ -7,3 +7,6 @@ function DislikedFood() {
 }
 
 export { FavoriteFood as FavFood, DislikedFood };
+
+// export { default as function1, function2 } from "bar.js";
+// export * from "mod";
